@@ -1,0 +1,44 @@
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\barcodescanner using c#.exe.config
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\barcodescanner using c#.exe
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\barcodescanner using c#.pdb
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.dll
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.Video.dll
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\zxing.dll
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\zxing.presentation.dll
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.xml
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.Video.xml
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\zxing.xml
+C:\Users\silly\source\repos\barcodescanner using c#\bin\Debug\zxing.presentation.xml
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.csproj.AssemblyReference.cache
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner_using_c_.Form1.resources
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner_using_c_.Properties.Resources.resources
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.csproj.GenerateResource.cache
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.csproj.CoreCompileInputs.cache
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.csproj.CopyComplete
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.exe
+C:\Users\silly\source\repos\barcodescanner using c#\obj\Debug\barcodescanner using c#.pdb
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\barcodescanner using c#.exe.config
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\barcodescanner using c#.exe
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\barcodescanner using c#.pdb
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.dll
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.Video.dll
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\zxing.dll
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\zxing.presentation.dll
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.xml
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.Video.xml
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\zxing.xml
+C:\Users\silly\source\repos\barcodescanner using c# copy1\bin\Debug\zxing.presentation.xml
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.csproj.AssemblyReference.cache
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner_using_c_.Form1.resources
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner_using_c_.Properties.Resources.resources
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.csproj.GenerateResource.cache
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.csproj.CoreCompileInputs.cache
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.csproj.CopyComplete
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.exe
+C:\Users\silly\source\repos\barcodescanner using c# copy1\obj\Debug\barcodescanner using c#.pdb
